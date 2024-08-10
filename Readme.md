@@ -1,4 +1,4 @@
-# V2Ray Auto-Deployment Script
+# v2ray Config as Base64 Script
 
 This script automates the deployment of a V2Ray server using Docker and Docker Compose. It also generates the necessary configuration files and outputs the `vmess` URLs for easy client setup.
 
