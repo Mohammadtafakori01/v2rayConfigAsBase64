@@ -13,3 +13,4 @@ This script automates the deployment of a V2Ray server using Docker and Docker C
 To run the script, use the following command:
 
 ```bash
+sudo ./install-upstream.sh <PORT>
